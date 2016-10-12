@@ -1,0 +1,12 @@
+D:\Code\RegexFileSearch\RegexFileSearch\bin\Debug\NLog.config
+D:\Code\RegexFileSearch\RegexFileSearch\bin\Debug\RegexFileSearch.exe.config
+D:\Code\RegexFileSearch\RegexFileSearch\bin\Debug\RegexFileSearch.exe
+D:\Code\RegexFileSearch\RegexFileSearch\bin\Debug\RegexFileSearch.pdb
+D:\Code\RegexFileSearch\RegexFileSearch\bin\Debug\EPPlus.dll
+D:\Code\RegexFileSearch\RegexFileSearch\bin\Debug\NLog.dll
+D:\Code\RegexFileSearch\RegexFileSearch\bin\Debug\PowerArgs.dll
+D:\Code\RegexFileSearch\RegexFileSearch\bin\Debug\EPPlus.xml
+D:\Code\RegexFileSearch\RegexFileSearch\bin\Debug\NLog.xml
+D:\Code\RegexFileSearch\RegexFileSearch\bin\Debug\PowerArgs.xml
+D:\Code\RegexFileSearch\RegexFileSearch\obj\Debug\RegexFileSearch.exe
+D:\Code\RegexFileSearch\RegexFileSearch\obj\Debug\RegexFileSearch.pdb
